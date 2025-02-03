@@ -9,3 +9,9 @@ El concepto de este fichero es aprender a usar las cabeceras en markdown
 
 ![Imagen de un gato con la lengua fuera](https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t500x500.jpg)
 
+``` C++
+int main(){
+  std::cout << "Hola mundo" << std::endl;
+  return 0;
+}
+```
