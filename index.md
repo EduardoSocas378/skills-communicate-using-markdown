@@ -15,3 +15,8 @@ int main(){
   return 0;
 }
 ```
+
+- [x] Hacer el curso de introducción a github
+- [ ] Hacer el curso de introducción a markdown
+- [ ] Hacer el curso de github pages
+
